@@ -64,7 +64,7 @@
             height: auto;
             border-radius: 8px;
         }
-        video {
+        video, iframe {
             max-width: 50%;
             height: auto;
             border-radius: 8px;
@@ -88,13 +88,14 @@
         <article>
             <h2>Hello,</h2>
             <p>Welcome To my Blog.</p>
-            <h3>Photo</h3>
-            <img src="davfoto.jpg" alt="Deskripsi Foto">
+            <h3>Photo/CV</h3>
+            <img src="davfoto.jpg" alt="Deskripsi Foto"> <img src="davcv.jpg" alt="Deskripsi Foto">
             <h3>Video</h3>
-            <video controls>
-               <a href="https://youtu.be/XiSbU3dRwFA?feature=shared" target="_blank">Watch on youtube</a>
-                Browser Anda tidak mendukung tag video.
-            </video>
+            <h3>Link YouTube</h3>
+            <p>
+                Watch this story telling video on
+                <a href="https://youtu.be/XiSbU3dRwFA?feature=shared" target="_blank">YouTube</a>.
+            </p>
         </article>
     </section>
 
@@ -120,9 +121,6 @@
         </article>
     </section>
 </div>
-
-<footer>
-    <p>Blog Pribadi Saya &copy; 2024</footer>
 
 </body>
 </html>
