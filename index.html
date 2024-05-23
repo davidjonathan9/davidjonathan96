@@ -60,7 +60,7 @@
             bottom: 0;
         }
         img {
-            max-width: 100%;
+            max-width: 20%;
             height: auto;
             border-radius: 8px;
         }
@@ -89,7 +89,7 @@
             <h2>Hello,</h2>
             <p>Welcome To my Blog.</p>
             <h3>Photo/CV</h3>
-            <img src="davfoto.jpg" alt="Deskripsi Foto"> <img src="davcv.jpg" alt="Deskripsi Foto">
+            <img src="davdav.jpg" alt="Deskripsi Foto"> <img src="davcv2.jpg" alt="Deskripsi Foto">
             <h3>Video</h3>
             <h3>Link YouTube</h3>
             <p>
