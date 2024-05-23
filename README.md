@@ -117,7 +117,7 @@
     <section id="contact">
         <article>
             <h2>Contact</h2>
-            <p>Anda bisa menghubungi saya di email@example.com.</p>
+            <p>you can contact me via email davidsekeh96@gmail.com</p>
         </article>
     </section>
 </div>
