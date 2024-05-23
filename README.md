@@ -60,7 +60,7 @@
             bottom: 0;
         }
         img {
-            max-width: 20%;
+            max-width: 50%;
             height: auto;
             border-radius: 8px;
         }
