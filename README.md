@@ -92,7 +92,7 @@
             <img src="davfoto.jpg" alt="Deskripsi Foto">
             <h3>Video</h3>
             <video controls>
-                <source src="TEAM 1.mp4" type="video/mp4">
+               <a href="https://youtu.be/XiSbU3dRwFA?feature=shared" target="_blank">Watch on youtube</a>
                 Browser Anda tidak mendukung tag video.
             </video>
         </article>
