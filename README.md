@@ -98,17 +98,13 @@
             <h2>Hello,</h2>
             <p>Welcome to David's Blog.</p>
             <h3>Photo/CV</h3>
-            <img src="davdav.jpg" alt="Deskripsi Foto"> <img src="davcv2.jpg" alt="Deskripsi Foto">
+            <img src="davdav.jpg" alt="Deskripsi Foto"> 
+            <img src="davcv2.jpg" alt="Deskripsi Foto">
             <h3>Video</h3>
-            <h3>Link YouTube</h3>
-            <p>
-                Watch this story telling video on
-                <a href="https://youtu.be/XiSbU3dRwFA?feature=shared" target="_blank">YouTube</a>.
-            </p>
-            <p>
-                Watch this traditional dances performace video on
-                <a href="https://youtu.be/jPCzQ7VCqtg?feature=shared" target="_blank">YouTube</a>.
-            </p>
+            <h3>Storytelling Video</h3>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/XiSbU3dRwFA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <h3>Traditional Dances Performance</h3>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/jPCzQ7VCqtg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </article>
     </section>
 
