@@ -72,8 +72,8 @@
         }
         img, video, iframe {
             display:block;
-            max-width: 50%;
-            height: 50%;
+            max-width: 100%;
+            height:auto;
             border-radius: 12px; /* Increased Border Radius */
             margin-bottom: 1rem; /* Added Margin Bottom */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added Box Shadow */
