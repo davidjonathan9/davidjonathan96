@@ -64,7 +64,7 @@
         .profile-picture {
             display: block;
             margin: auto;
-            width: 150px;
+            width: 200px;
             height: 150px;
             object-fit: cover;
             margin-bottom: 1rem;
@@ -136,4 +136,3 @@
 
 </body>
 </html>
-
