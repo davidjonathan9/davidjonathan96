@@ -72,8 +72,8 @@
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Added Box Shadow */
         }
         img, video, iframe {
-            max-width: 200%;
-            height: 150%;
+            max-width: 100%;
+            height: 100%;
             border-radius: 12px; /* Increased Border Radius */
             margin-bottom: 1rem; /* Added Margin Bottom */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added Box Shadow */
