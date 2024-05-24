@@ -61,22 +61,22 @@
             width: 100%;
             bottom: 0;
         }
+        .profile-picture {
+            display: block;
+            margin: auto;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin-bottom: 1rem;
+            border-radius: 12px; /* Added Border Radius */
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Added Box Shadow */
+        }
         img, video, iframe {
             max-width: 30%;
             height: 30%;
             border-radius: 12px; /* Increased Border Radius */
             margin-bottom: 1rem; /* Added Margin Bottom */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added Box Shadow */
-        }
-        .profile-picture {
-            display: block;
-            margin: auto;
-            width: 250px;
-            height: 200px;
-            border-radius: 100%;
-            object-fit: cover;
-            margin-bottom: 1rem;
-            box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Added Box Shadow */
         }
     </style>
 </head>
@@ -97,9 +97,10 @@
     <section id="home">
         <article>
             <h2>Hello,</h2>
-            <p>Welcome To David's Blog.</p>
+            <p>Welcome To my Blog.</p>
             <h3>Photo/CV</h3>
-            <img src="davdav.jpg" alt="Deskripsi Foto"> <img src="davcv2.jpg" alt="Deskripsi Foto">
+            <img src="davdav.jpg" alt="Deskripsi Foto"> 
+            <p><img src="davcv2.jpg" alt="Deskripsi Foto"></p>
             <h3>Video</h3>
             <h3>Link YouTube</h3>
             <p>
@@ -128,7 +129,6 @@
         <article>
             <h2>Contact</h2>
             <p>You can contact me via email davidsekeh96@gmail.com</p>
-            <p>Instagram : daviddjonathan</p>
         </article>
     </section>
 </div>
