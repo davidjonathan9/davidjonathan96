@@ -72,8 +72,8 @@
             box-shadow: 0 0 20px rgba(0, 0, 0, 0.3); /* Added Box Shadow */
         }
         img, video, iframe {
-            max-width: 30%;
-            height: 30%;
+            max-width: 50%;
+            height: 50%;
             border-radius: 12px; /* Increased Border Radius */
             margin-bottom: 1rem; /* Added Margin Bottom */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added Box Shadow */
@@ -84,7 +84,6 @@
 
 <header>
     <h1>Welcome</h1>
-    <img class="profile-picture" src="profil.jpg" alt="Foto Profil">
 </header>
 
 <nav>
@@ -97,10 +96,9 @@
     <section id="home">
         <article>
             <h2>Hello,</h2>
-            <p>Welcome To my Blog.</p>
+            <p>Welcome to David's Blog.</p>
             <h3>Photo/CV</h3>
-            <img src="davdav.jpg" alt="Deskripsi Foto"> 
-            <p><img src="davcv2.jpg" alt="Deskripsi Foto"></p>
+            <img src="davdav.jpg" alt="Deskripsi Foto"> <img src="davcv2.jpg" alt="Deskripsi Foto">
             <h3>Video</h3>
             <h3>Link YouTube</h3>
             <p>
@@ -113,6 +111,7 @@
     <section id="about">
         <article>
             <h2>About Me</h2>
+            <img src="profil.jpg" alt="Foto Profil" width="200" height="100">
             <p>Hi, I'm David Jonathan Sekeh and usually called David, and now I will tell about myself.
                 I was born in Manado on June 9, 2005, grew up in Tomohon but when I was little I often 
                 stayed in Tembagapura, Papua with my grandparents who worked there. When I grew up, I lived in 
@@ -128,10 +127,13 @@
     <section id="contact">
         <article>
             <h2>Contact</h2>
-            <p>You can contact me via email davidsekeh96@gmail.com</p>
+            <p>You can contact me on :</p>
+            <p>Email davidsekeh96@gmail.com</p>
+            <p>Instagram daviddjonathan</p>
         </article>
     </section>
 </div>
 
 </body>
 </html>
+
