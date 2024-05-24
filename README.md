@@ -63,7 +63,7 @@
         }
         img, video, iframe {
             max-width: 30%;
-            height: auto;
+            height: 30%;
             border-radius: 12px; /* Increased Border Radius */
             margin-bottom: 1rem; /* Added Margin Bottom */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Added Box Shadow */
@@ -71,7 +71,7 @@
         .profile-picture {
             display: block;
             margin: auto;
-            width: 200px;
+            width: 250px;
             height: 200px;
             border-radius: 100%;
             object-fit: cover;
