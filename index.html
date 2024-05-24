@@ -105,6 +105,10 @@
                 Watch this story telling video on
                 <a href="https://youtu.be/XiSbU3dRwFA?feature=shared" target="_blank">YouTube</a>.
             </p>
+            <p>
+                Watch this traditional dances performace video on
+                <a href="https://youtu.be/jPCzQ7VCqtg?feature=shared" target="_blank">YouTube</a>.
+            </p>
         </article>
     </section>
 
